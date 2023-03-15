@@ -1,0 +1,39 @@
+[
+    [
+        ["18/05/2023","17:47","Casa","70,MIN"],
+        [
+            ["Pieza Joan","-33.491781","-70.770692"],
+            ["Ronda Universidad","-33.4371007","-70.6079514"],
+            ["Ronda Fuera","-33.491974","-23.491974"]
+        ]
+
+    ]
+    
+]
+
+ 
+
+{
+    "comments":["",""],
+    "duracion":"",
+    "fecha":"",
+    "fuerealizada":"",
+    "locations":[
+        {
+            "latitude":"1231231",
+            "longuitude":"11111"
+        },
+        {
+            "latitude":"3234324",
+            "longuitude":"11123132111"
+        }
+    ],
+    "ommiteed":["",""],
+    "photob64": ["",""],
+    "userealizade":""
+    
+    
+    
+    
+    
+}

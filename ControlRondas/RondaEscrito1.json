@@ -1,0 +1,35 @@
+{
+   "Info":{
+      "Data":[
+         "hola",
+         "hola1",
+         "hola2"
+      ],
+      "Rondas":[
+         {
+            "latitude":"123213",
+            "longuitude":"4421",
+            "name":"joan"
+         },
+         {
+            "latitude":"0987",
+            "longuitude":"3564",
+            "name":"maxi"
+         }
+      ]
+   }
+}
+
+
+{
+    
+    "Rondas":[
+        {
+            
+        }
+        
+    ],
+    "Duracion":"valor"
+    
+    
+}
